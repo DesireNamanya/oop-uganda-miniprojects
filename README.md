@@ -99,4 +99,4 @@ All data are **illustrative** values taken from the assignment brief, or synthet
 
 ## Declaration of AI use
 
-I used Claude (Anthropic) as a coding assistant for this assignment. It helped design the class structure, draft the module code, tests and notebook cells, and suggest wording for the analysis. I reviewed, ran and checked every result including the hand calculations in the notebooks and I can explain every line of the code.
+I used Claude (Anthropic) as a coding assistant for this assignment. It helped draft some of the module code, tests and notebook cells, and suggest wording for the analysis. I designed the class structure reviewed, ran and checked every result including the hand calculations in the notebooks and I can explain every line of the code.

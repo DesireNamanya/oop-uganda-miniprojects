@@ -6,11 +6,11 @@ Each mini-project models a Ugandan planning problem with small, reusable, tested
 
 | # | Mini-project | Notebook | Module | Tests | Status |
 |---|---|---|---|---|---|
-| 1 | UBOS District Population Forecaster | `project1_population.ipynb` | `src/population.py` | `tests/test_population.py` | ✅ Done |
-| 2 | Solar Micro-Grid Dispatch Planner | `project2_microgrid.ipynb` | `src/microgrid.py` | `tests/test_microgrid.py` | ✅ Done |
-| 3 | Lake Victoria Fish Stock & Export Risk | `project3_fisheries.ipynb` | `src/fisheries.py` | `tests/test_fisheries.py` | ✅ Done |
-| 4 | Rainfall Pattern & Crop Suitability | `project4_rainfall.ipynb` | `src/rainfall.py` | `tests/test_rainfall.py` | ✅ Done |
-| 5 | Taxi Route Revenue, Pricing & Fleet | `project5_taxi.ipynb` | `src/taxi.py` | `tests/test_taxi.py` | ✅ Done |
+| 1 | UBOS District Population Forecaster | `project1_population.ipynb` | `src/population.py` | `tests/test_population.py` | Done |
+| 2 | Solar Micro-Grid Dispatch Planner | `project2_microgrid.ipynb` | `src/microgrid.py` | `tests/test_microgrid.py` | Done |
+| 3 | Lake Victoria Fish Stock & Export Risk | `project3_fisheries.ipynb` | `src/fisheries.py` | `tests/test_fisheries.py` | Done |
+| 4 | Rainfall Pattern & Crop Suitability | `project4_rainfall.ipynb` | `src/rainfall.py` | `tests/test_rainfall.py` | Done |
+| 5 | Taxi Route Revenue, Pricing & Fleet | `project5_taxi.ipynb` | `src/taxi.py` | `tests/test_taxi.py` | Done |
 
 ## Repository layout
 
